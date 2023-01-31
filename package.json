@@ -126,8 +126,5 @@
     "hooks": {
       "pre-commit": "npm run prettier"
     }
-  },
-  "engines": {
-  "node": "16.16.0"
-}
+  }
 }
